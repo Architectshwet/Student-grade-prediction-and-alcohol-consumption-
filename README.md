@@ -93,3 +93,40 @@ G2 - second period grade (numeric: from 0 to 20)
 
 G3 - final grade (numeric: from 0 to 20, output target)
 
+# Some Analysis
+
+MAJOR OBSERVARTION-
+
+1) Majority of students have parents living together.
+
+2) Maximum no of students study 2 to 5 hours weekly and least 10 hours weekly.
+
+3) After checking the proportions of Pstatus and study time-we find out that for students 
+whose parents are together they study more compared to those whose parents who do not live together.
+
+4) More number of males participate in extra caricullar activities than females.
+
+5) Most of the students chose the school with proper and appt courses offered by them and reputation 
+   and closer to home as well.
+   
+6) More no of females went for schools's reputation than males.
+
+7) Most of the students have internet connections at home.
+
+8) Students-All students who are studious -> wants to pursue higher education.(usually who study 2-10 hours in a week)
+
+9) In both rural and Urban areas Females are more studious and hard working.
+
+10) In rural areas 6% said No for higher edu and rest 93% students from RURAL areas said YES for Higher EDU out of total population in RURAL area.
+
+11) In URABN area 4 % for the Students said NO and rest 95 % Students said YEs for higher EDU out of total population in URBAN area.
+
+12) More mothers went for higher education(4) than Fathers of the students in the sample.
+
+13) Family Support in Education and their effect on the children and their Study Habits
+
+
+
+
+
+
